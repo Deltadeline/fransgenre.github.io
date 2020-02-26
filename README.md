@@ -7,7 +7,7 @@ Ce wiki à pour objectif de transmettre les informations et guides liés à la t
 
 ## Comment participer ?
 1. Se creer un compte github sur https://github.com/join
-2. Aller sur https://fransgenre.github.io (deviendra par le futur (dès sortie de BETA) https://www.frangenre.fr)
+2. Aller sur https://fransgenre.github.io (deviendra par le futur (dès sortie de BETA) https://www.fransgenre.fr)
 3. Naviguer sur la page à modifier
 4. Cliquer sur modifier cette page
 5. Fork ce repository
